@@ -1,2 +1,10 @@
 # calculadoraCDI
-Calculadora básica em Javascript no qual simula um investimento baseado no CDI e o quanto renderia durante x anos além de descontar o lucro com a % certa do IR.
+Calculadora básica em Javascript que retorna o valor líquido investido em um título na Renda Fixa.
+
+# Usablilidades da aplicação:
+
+• Informa quanto o investimento renderia a cada ano;
+• Informa o saldo bruto;
+• Informa a taxa do CDI conforme data da publicação;
+• Informa a % do desconto do IR e;
+• Informa o rendimento no prazo final da aplicação.
