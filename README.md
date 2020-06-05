@@ -3,8 +3,8 @@ Calculadora básica em Javascript que retorna o valor líquido investido em um t
 
 # Usablilidades da aplicação:
 
-• Informa quanto o investimento renderia a cada ano;
-• Informa o saldo bruto;
-• Informa a taxa do CDI conforme data da publicação;
-• Informa a % do desconto do IR e;
-• Informa o rendimento no prazo final da aplicação.
+- Informa quanto o investimento renderia a cada ano;
+- Informa o saldo bruto;
+- Informa a taxa do CDI conforme data da publicação;
+- Informa a % do desconto do IR e;
+- Informa o rendimento no prazo final da aplicação.
