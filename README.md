@@ -9,4 +9,6 @@ Calculadora básica em Javascript que retorna o valor líquido investido em um t
 - Informa a % do desconto do IR e;
 - Informa o rendimento no prazo final da aplicação.
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+# Exemplo da aplicação:
+![Alt text](https://github.com/nobruexe/calculadoraCDI/blob/master/calculadoraCDI.png "Exemplo da aplicação em node.js")
+
