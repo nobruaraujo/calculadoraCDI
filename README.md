@@ -8,3 +8,5 @@ Calculadora básica em Javascript que retorna o valor líquido investido em um t
 - Informa a taxa do CDI conforme data da publicação;
 - Informa a % do desconto do IR e;
 - Informa o rendimento no prazo final da aplicação.
+
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
